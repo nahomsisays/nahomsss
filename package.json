@@ -1,0 +1,19 @@
+{
+   "name": "vault",
+   "version": "0.1.0",
+   "private": true,
+   "description": "Vault V1 scaffolding (docs + rate oracle + simulator)",
+   "license": "MIT",
+   "engines": {
+      "node": ">=18"
+   },
+  "scripts": {
+    "test": "node tests/rate_oracle.sim.js",
+    "lint": "eslint src tests --ext .js",
+    "lint:fix": "eslint src tests --ext .js --fix"
+  },
+   "devDependencies": {
+      "eslint": "^9.36.0"
+   },
+   "type": "commonjs"
+}
