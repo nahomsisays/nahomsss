@@ -12,6 +12,7 @@
        globals: {
          require: 'readonly',
          module: 'readonly',
+         __dirname: 'readonly',
          console: 'readonly',
          process: 'readonly',
        },

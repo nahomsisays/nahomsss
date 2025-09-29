@@ -10,7 +10,8 @@
   "scripts": {
     "test": "node tests/rate_oracle.sim.js",
     "lint": "eslint src tests --ext .js",
-    "lint:fix": "eslint src tests --ext .js --fix"
+    "lint:fix": "eslint src tests --ext .js --fix",
+    "start": "node server/server.js"
   },
    "devDependencies": {
       "eslint": "^9.36.0"
