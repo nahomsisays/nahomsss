@@ -1,0 +1,37 @@
+{
+  "template_version": "0.1",
+  "record_type": "facility_research_case",
+  "required_fields": {
+    "facility_id": "",
+    "research_status": "needs_verification",
+    "priority": "high",
+    "ai_relevance_hypothesis": "",
+    "missing_fields": [],
+    "open_questions": [],
+    "source_log": [
+      {
+        "source_type": "local_permit|zoning_record|tax_abatement_agreement|utility_filing|interconnection_queue|environmental_permit|air_permit|water_permit|public_meeting_minutes|state_environmental_agency_record|epa_record|eia_data|sec_filing|court_record|other",
+        "title": "",
+        "publisher": "",
+        "url": "",
+        "date": "",
+        "relevance_note": "",
+        "trust_level": "primary|secondary|lead_only"
+      }
+    ],
+    "claim_checks": [
+      {
+        "claim_text": "",
+        "claimant": "",
+        "evidence_for": [],
+        "evidence_against": [],
+        "unknowns": [],
+        "verdict": "supported|mostly_supported|partly_supported|unsupported|contradicted|unclear",
+        "confidence": "low|medium|high",
+        "explanation": ""
+      }
+    ],
+    "reviewer_notes": "",
+    "last_updated": ""
+  }
+}

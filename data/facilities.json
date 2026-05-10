@@ -1,0 +1,18 @@
+[
+  {
+    "identity": {"id":"nova-001","name":"Ashburn AI Compute Campus","aliases":["Ashburn Campus"],"project_name":"Project Potomac","owner":"Hyperscale Holdings","operator":"Hyperscale Operations","developer":"Hyperscale Holdings","known_tenants":[],"suspected_tenants":["Frontier model developer (unverified)"],"parent_company":"Hyperscale Group"},
+    "location": {"state":"VA","county":"Loudoun","city":"Ashburn","latitude":39.0438,"longitude":-77.4874,"address":"Placeholder","approximate_location":true},
+    "status":"active",
+    "ai_relevance":{"category":"likely","score":4,"explanation":"Large-scale campus discussed for high-density compute.","evidence":"Placeholder evidence note.","confidence":"low"},
+    "scale":{"acreage":90,"square_feet":1200000,"estimated_it_load_mw":180,"estimated_total_load_mw":260,"announced_investment":2500000000,"expected_online_date":"2026-12-01"},
+    "power":{"utility_provider":"Dominion Energy","grid_region":"PJM","substations":["Substation A"],"interconnection_notes":"Placeholder interconnection note.","backup_generation":"Diesel backup","diesel_generator_count":30,"grid_strain_risk":{"score":74,"confidence":"low","explanation":"Placeholder index."}},
+    "water":{"water_source":"Municipal","cooling_type":"Evaporative","estimated_water_use":"Placeholder estimate","water_stress_score":{"score":58,"confidence":"low","explanation":"Placeholder index."},"water_permits":["Pending verification"]},
+    "air":{"air_permits":["Pending verification"],"diesel_emissions_risk":{"score":47,"confidence":"low","explanation":"Placeholder index."},"gas_generation_connection":"Unknown","emissions_notes":"No definitive emissions determination."},
+    "ecology":{"previous_land_use":"Mixed commercial","habitat_risk":{"score":63,"confidence":"low","explanation":"Placeholder index."},"wetlands_or_sensitive_area":"Unknown","noise_heat_construction_notes":"Needs local review."},
+    "economics":{"promised_jobs":250,"permanent_jobs":180,"construction_jobs":900,"tax_abatement_value":180000000,"subsidy_notes":"Placeholder subsidy record.","public_cost_per_permanent_job":1000000},
+    "governance":{"elected_officials":["Unverified"],"agencies":["Local planning board"],"zoning_decisions":["Pending verification"],"public_hearings":["Unknown"],"opposition":["Unknown"],"support":["Unknown"],"transparency_score":{"score":42,"confidence":"low","explanation":"Public record completeness unclear."}},
+    "claims":{"claim_ids":["c1"]},
+    "sources":{"source_ids":["s1"]},
+    "metadata":{"verification_status":"needs_verification","last_updated":"2026-05-10","confidence":"low","open_questions":["Confirm tenant profile","Validate MW load"]}
+  }
+]
