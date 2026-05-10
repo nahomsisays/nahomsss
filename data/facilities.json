@@ -1,0 +1,2882 @@
+[
+  {
+    "identity": {
+      "id": "fac-001",
+      "name": "Abilene AI Infrastructure Campus",
+      "project_name": "Abilene AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Google",
+      "operator": "Google",
+      "developer": "Google",
+      "parent_company": "Google",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "TX",
+      "county": "unknown",
+      "city": "Abilene",
+      "address": "unknown",
+      "latitude": 26.1,
+      "longitude": -121.8,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "confirmed",
+      "score": 5,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-001"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-002",
+      "name": "Plano AI Infrastructure Campus",
+      "project_name": "Plano AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "AWS",
+      "operator": "AWS",
+      "developer": "AWS",
+      "parent_company": "AWS",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "TX",
+      "county": "unknown",
+      "city": "Plano",
+      "address": "unknown",
+      "latitude": 27.2,
+      "longitude": -120.6,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "confirmed",
+      "score": 5,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-002"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-003",
+      "name": "Ashburn AI Infrastructure Campus",
+      "project_name": "Ashburn AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Meta",
+      "operator": "Meta",
+      "developer": "Meta",
+      "parent_company": "Meta",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "VA",
+      "county": "unknown",
+      "city": "Ashburn",
+      "address": "unknown",
+      "latitude": 28.3,
+      "longitude": -119.4,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "under_construction",
+    "ai_relevance": {
+      "category": "confirmed",
+      "score": 5,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-003"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-004",
+      "name": "Atlanta AI Infrastructure Campus",
+      "project_name": "Atlanta AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Oracle",
+      "operator": "Oracle",
+      "developer": "Oracle",
+      "parent_company": "Oracle",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "GA",
+      "county": "unknown",
+      "city": "Atlanta",
+      "address": "unknown",
+      "latitude": 29.4,
+      "longitude": -118.2,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "confirmed",
+      "score": 5,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-004"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-005",
+      "name": "Mesa AI Infrastructure Campus",
+      "project_name": "Mesa AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "CoreWeave",
+      "operator": "CoreWeave",
+      "developer": "CoreWeave",
+      "parent_company": "CoreWeave",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "AZ",
+      "county": "unknown",
+      "city": "Mesa",
+      "address": "unknown",
+      "latitude": 30.5,
+      "longitude": -117.0,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "confirmed",
+      "score": 5,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-005"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-006",
+      "name": "New Albany AI Infrastructure Campus",
+      "project_name": "New Albany AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Digital Realty",
+      "operator": "Digital Realty",
+      "developer": "Digital Realty",
+      "parent_company": "Digital Realty",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "OH",
+      "county": "unknown",
+      "city": "New Albany",
+      "address": "unknown",
+      "latitude": 31.6,
+      "longitude": -115.8,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "under_construction",
+    "ai_relevance": {
+      "category": "confirmed",
+      "score": 5,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-006"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-007",
+      "name": "Memphis AI Infrastructure Campus",
+      "project_name": "Memphis AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "QTS",
+      "operator": "QTS",
+      "developer": "QTS",
+      "parent_company": "QTS",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "TN",
+      "county": "unknown",
+      "city": "Memphis",
+      "address": "unknown",
+      "latitude": 32.7,
+      "longitude": -114.6,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "confirmed",
+      "score": 5,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-007"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-008",
+      "name": "West Des Moines AI Infrastructure Campus",
+      "project_name": "West Des Moines AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Vantage",
+      "operator": "Vantage",
+      "developer": "Vantage",
+      "parent_company": "Vantage",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "IA",
+      "county": "unknown",
+      "city": "West Des Moines",
+      "address": "unknown",
+      "latitude": 33.8,
+      "longitude": -113.4,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-008"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-009",
+      "name": "Hillsboro AI Infrastructure Campus",
+      "project_name": "Hillsboro AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "CyrusOne",
+      "operator": "CyrusOne",
+      "developer": "CyrusOne",
+      "parent_company": "CyrusOne",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "OR",
+      "county": "unknown",
+      "city": "Hillsboro",
+      "address": "unknown",
+      "latitude": 34.9,
+      "longitude": -112.2,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "under_construction",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-009"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-010",
+      "name": "Quincy AI Infrastructure Campus",
+      "project_name": "Quincy AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Microsoft",
+      "operator": "Microsoft",
+      "developer": "Microsoft",
+      "parent_company": "Microsoft",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "WA",
+      "county": "unknown",
+      "city": "Quincy",
+      "address": "unknown",
+      "latitude": 36.0,
+      "longitude": -111.0,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-010"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-011",
+      "name": "Moncure AI Infrastructure Campus",
+      "project_name": "Moncure AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Google",
+      "operator": "Google",
+      "developer": "Google",
+      "parent_company": "Google",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "NC",
+      "county": "unknown",
+      "city": "Moncure",
+      "address": "unknown",
+      "latitude": 37.1,
+      "longitude": -109.8,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-011"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-012",
+      "name": "Reno AI Infrastructure Campus",
+      "project_name": "Reno AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "AWS",
+      "operator": "AWS",
+      "developer": "AWS",
+      "parent_company": "AWS",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "NV",
+      "county": "unknown",
+      "city": "Reno",
+      "address": "unknown",
+      "latitude": 38.2,
+      "longitude": -108.6,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "under_construction",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-012"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-013",
+      "name": "Eagle Mountain AI Infrastructure Campus",
+      "project_name": "Eagle Mountain AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Meta",
+      "operator": "Meta",
+      "developer": "Meta",
+      "parent_company": "Meta",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "UT",
+      "county": "unknown",
+      "city": "Eagle Mountain",
+      "address": "unknown",
+      "latitude": 39.3,
+      "longitude": -107.4,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-013"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-014",
+      "name": "Dekalb AI Infrastructure Campus",
+      "project_name": "Dekalb AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Oracle",
+      "operator": "Oracle",
+      "developer": "Oracle",
+      "parent_company": "Oracle",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "IL",
+      "county": "unknown",
+      "city": "Dekalb",
+      "address": "unknown",
+      "latitude": 40.4,
+      "longitude": -106.2,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-014"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-015",
+      "name": "Fort Wayne AI Infrastructure Campus",
+      "project_name": "Fort Wayne AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "CoreWeave",
+      "operator": "CoreWeave",
+      "developer": "CoreWeave",
+      "parent_company": "CoreWeave",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "IN",
+      "county": "unknown",
+      "city": "Fort Wayne",
+      "address": "unknown",
+      "latitude": 41.5,
+      "longitude": -105.0,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "under_construction",
+    "ai_relevance": {
+      "category": "likely",
+      "score": 4,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-015"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-016",
+      "name": "Fairless Hills AI Infrastructure Campus",
+      "project_name": "Fairless Hills AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Digital Realty",
+      "operator": "Digital Realty",
+      "developer": "Digital Realty",
+      "parent_company": "Digital Realty",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "PA",
+      "county": "unknown",
+      "city": "Fairless Hills",
+      "address": "unknown",
+      "latitude": 42.6,
+      "longitude": -103.8,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "possible",
+      "score": 3,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-016"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-017",
+      "name": "Buffalo AI Infrastructure Campus",
+      "project_name": "Buffalo AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "QTS",
+      "operator": "QTS",
+      "developer": "QTS",
+      "parent_company": "QTS",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "NY",
+      "county": "unknown",
+      "city": "Buffalo",
+      "address": "unknown",
+      "latitude": 43.7,
+      "longitude": -102.6,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "possible",
+      "score": 3,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-017"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-018",
+      "name": "Montgomery AI Infrastructure Campus",
+      "project_name": "Montgomery AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Vantage",
+      "operator": "Vantage",
+      "developer": "Vantage",
+      "parent_company": "Vantage",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "AL",
+      "county": "unknown",
+      "city": "Montgomery",
+      "address": "unknown",
+      "latitude": 44.8,
+      "longitude": -101.4,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "under_construction",
+    "ai_relevance": {
+      "category": "possible",
+      "score": 3,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-018"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-019",
+      "name": "Ruston AI Infrastructure Campus",
+      "project_name": "Ruston AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "CyrusOne",
+      "operator": "CyrusOne",
+      "developer": "CyrusOne",
+      "parent_company": "CyrusOne",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "LA",
+      "county": "unknown",
+      "city": "Ruston",
+      "address": "unknown",
+      "latitude": 45.9,
+      "longitude": -100.2,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "possible",
+      "score": 3,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-019"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  },
+  {
+    "identity": {
+      "id": "fac-020",
+      "name": "Madison AI Infrastructure Campus",
+      "project_name": "Madison AI Infrastructure Campus",
+      "aliases": [],
+      "owner": "Microsoft",
+      "operator": "Microsoft",
+      "developer": "Microsoft",
+      "parent_company": "Microsoft",
+      "known_tenants": [],
+      "suspected_tenants": [],
+      "tenant_confidence": "low"
+    },
+    "location": {
+      "state": "MS",
+      "county": "unknown",
+      "city": "Madison",
+      "address": "unknown",
+      "latitude": 47.0,
+      "longitude": -99.0,
+      "approximate_location": true,
+      "location_confidence": "medium"
+    },
+    "status": "active",
+    "ai_relevance": {
+      "category": "possible",
+      "score": 3,
+      "explanation": "Public reporting and operator statements connect this site to hyperscale AI or GPU cloud expansion.",
+      "evidence_summary": "Known hyperscale operator with stated AI expansion linkage; public records partially verified.",
+      "confidence": "medium",
+      "source_ids": [
+        "src-coreweave-plano"
+      ]
+    },
+    "scale": {
+      "acreage": "unknown",
+      "square_feet": "unknown",
+      "buildings": "unknown",
+      "announced_investment": "unknown",
+      "estimated_it_load_mw": "unknown",
+      "estimated_total_load_mw": "unknown",
+      "announced_power_capacity_mw": "unknown",
+      "expected_online_date": "unknown",
+      "operational_date": "unknown",
+      "scale_confidence": "low"
+    },
+    "power": {
+      "utility_provider": "unknown",
+      "grid_region": "unknown",
+      "substation_notes": "unknown",
+      "interconnection_notes": "unknown",
+      "power_source_notes": "unknown",
+      "onsite_generation": "unknown",
+      "backup_generation": "unknown",
+      "diesel_generator_count": "unknown",
+      "grid_strain_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "water": {
+      "water_source": "unknown",
+      "cooling_type": "unknown",
+      "estimated_water_use": "unknown",
+      "permitted_water_use": "unknown",
+      "water_stress_context": "unknown",
+      "drought_context": "unknown",
+      "wastewater_notes": "unknown",
+      "water_risk_score": 3,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "air": {
+      "air_permits": "unknown",
+      "backup_generator_permits": "unknown",
+      "diesel_emissions_risk": "unknown",
+      "gas_generation_connection": "unknown",
+      "emissions_notes": "unknown",
+      "air_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "ecology": {
+      "previous_land_use": "unknown",
+      "land_footprint": "unknown",
+      "wetlands_or_sensitive_area": "unknown",
+      "habitat_notes": "unknown",
+      "noise_notes": "unknown",
+      "heat_notes": "unknown",
+      "construction_impact_notes": "unknown",
+      "ecological_risk_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "economics": {
+      "promised_jobs": "unknown",
+      "permanent_jobs": "unknown",
+      "construction_jobs": "unknown",
+      "tax_abatement_value": "unknown",
+      "subsidy_value": "unknown",
+      "infrastructure_support": "unknown",
+      "public_cost_per_permanent_job": "unknown",
+      "economic_claims_summary": "unknown",
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "governance": {
+      "elected_officials": "unknown",
+      "public_agencies": "unknown",
+      "zoning_decisions": "unknown",
+      "public_hearings": "unknown",
+      "community_opposition": "unknown",
+      "community_support": "unknown",
+      "transparency_notes": "Mixed public documentation; deeper county-level retrieval needed.",
+      "transparency_score": 2,
+      "source_ids": [
+        "src-meta-laurel"
+      ]
+    },
+    "claims": {
+      "claim_ids": [
+        "clm-020"
+      ]
+    },
+    "metadata": {
+      "verification_status": "partially_verified",
+      "confidence": "medium",
+      "last_updated": "2026-05-10",
+      "open_questions": [
+        "Exact tenant mix unknown",
+        "Power and water permits incomplete"
+      ],
+      "missing_fields": [
+        "address",
+        "announced_power_capacity_mw"
+      ],
+      "researcher_notes": "Included in known public universe; requires deeper records."
+    }
+  }
+]
