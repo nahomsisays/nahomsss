@@ -1,0 +1,34 @@
+[
+  {
+    "id": "c1",
+    "facility_id": "nova-001",
+    "exact_claim": "This campus primarily serves major AI inference workloads.",
+    "claimant": "Hyperscale Holdings spokesperson",
+    "claimant_type": "company",
+    "date": "2026-03-11",
+    "source": "Placeholder press statement (demo)",
+    "evidence_for": ["Company states high-density AI racks are deployed.", "Utility filing references accelerated power profile."],
+    "evidence_against": ["No public tenant roster confirms AI-only workloads."],
+    "unknowns": ["Share of non-AI enterprise workload remains unknown."],
+    "verdict": "unclear",
+    "confidence": "low",
+    "explanation": "Signals suggest AI relevance, but direct independent verification is incomplete.",
+    "demo_data": true
+  },
+  {
+    "id": "c2",
+    "facility_id": "nova-001",
+    "exact_claim": "The project will create 500 permanent jobs.",
+    "claimant": "Local elected official statement",
+    "claimant_type": "politician",
+    "date": "2026-02-20",
+    "source": "Placeholder council briefing (demo)",
+    "evidence_for": ["Public announcement cites 500 jobs target."],
+    "evidence_against": ["Comparable facilities report materially lower permanent staffing."],
+    "unknowns": ["No audited hiring plan published."],
+    "verdict": "partly_supported",
+    "confidence": "low",
+    "explanation": "Claim may include temporary and vendor roles; permanent count uncertain.",
+    "demo_data": true
+  }
+]
